@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660777273 source:c:\users\cliente\documents\aeds\lista de exercicio 1\circulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circulo.h"
+
+1660776442 c:\users\cliente\documents\aeds\lista de exercicio 1\circulo\circulo.h
+
+1660777017 source:c:\users\cliente\documents\aeds\lista de exercicio 1\circulo\circulo.c
+	"circulo.h"
+	<stdio.h>
+

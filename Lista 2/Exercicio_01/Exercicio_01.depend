@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663804678 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_01\bubblesort.c
+	"BubbleSort.h"
+
+1663804513 c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_01\bubblesort.h
+
+1663807303 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operacao.h"
+
+1663807223 c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_01\operacao.h
+
+1663807223 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_01\operacao.c
+	"Operacao.h"
+

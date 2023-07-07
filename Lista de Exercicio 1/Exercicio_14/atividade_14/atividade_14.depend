@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663030661 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_14\atividade_14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1663031446 c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_14\atividade_14\lista.h
+
+1663031289 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_14\atividade_14\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1662820517 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercico_15\atividade_15\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1662820517 c:\users\mariana\documents\aeds\lista de exercicio 1\exercico_15\atividade_15\fila.h
+
+1662820517 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercico_15\atividade_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1663029218 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_15\atividade_15\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1662947100 c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_15\atividade_15\fila.h
+
+1663029197 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_15\atividade_15\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+

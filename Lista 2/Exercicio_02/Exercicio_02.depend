@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663808288 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_02\ordenacao.c
+	"ordenacao.h"
+
+1663808288 c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_02\ordenacao.h
+
+1663809062 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666359905 source:c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Operacoes.h"
+
+1666359575 c:\users\mariana\documents\aeds\lista de exercicio 2\exercicio_11\operacoes.h
+

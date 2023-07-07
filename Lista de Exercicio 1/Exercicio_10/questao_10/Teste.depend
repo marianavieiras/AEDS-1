@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1662726286 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio 10\teste\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1662726474 c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio 10\teste\lista.h
+
+1662726388 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio 10\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1663019665 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_10\questao_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1663019632 c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_10\questao_10\lista.h
+
+1663019723 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_10\questao_10\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+

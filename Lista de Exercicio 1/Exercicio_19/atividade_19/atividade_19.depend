@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663025812 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_19\atividade_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1663025794 c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_19\atividade_19\pilha.h
+
+1663026199 source:c:\users\mariana\documents\aeds\lista de exercicio 1\exercicio_19\atividade_19\pilha.c
+	<stdio.h>
+	"pilha.h"
+
